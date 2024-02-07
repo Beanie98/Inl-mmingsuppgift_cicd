@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Inlämmingsuppgift_cicd.props" />
+</Project>
