@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inlämmingsuppgift_cicd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51feddf4c02e3afbc8523fe79d669b05da7dc62b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d3f2339d37eaa30d28a9aefd69d5d9e182d2881")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inlämmingsuppgift_cicd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inlämmingsuppgift_cicd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
