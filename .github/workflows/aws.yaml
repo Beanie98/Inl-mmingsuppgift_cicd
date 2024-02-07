@@ -30,6 +30,6 @@ jobs:
           aws_secret_key: ${{ secrets.AWS_SECRET_KEY }}
           application_name: Uppgift
           environment_name: Uppgift-env
-          version_label: Sample
+          version_label: ${{ github.run_id }}
           region: eu-north-1
           deployment_package: site.zip

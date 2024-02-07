@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gk/wBFvO+GTivrzRhoIHf6K//FUFskd+MTAtMocroKEkubyz4iF/KY1pHE5VzTddpeRIKucTQ6O5H3J5fCGh9A==",
+  "dgSpecHash": "zTqm4p7BOkMWRnGPmfTDhmPvAAt63RrNwc0m+9JMbBfcPL8FnxlDeO7gPDehynsEkEyHh82foY0krFpEMRSiMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Miranda Palm\\Inlämmingsuppgift_cicd\\Inlämmingsuppgift_cicd.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Miranda Palm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Miranda Palm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Miranda Palm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Miranda Palm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
