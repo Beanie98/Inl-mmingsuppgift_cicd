@@ -5,7 +5,7 @@ var app = builder.Build();
 
 var crypter = new EncryptDecrypt();
 
-app.MapGet("/", () => "Hello Hello!!!!");
+app.MapGet("/", () => "please add /encrypt?user_input= and then the message you want to encrypt, you can also decrypt by /decrypt?user_input= and then your encrypted message!");
 
 app.MapGet("/encrypt", (string user_input) => crypter.Encrypt(user_input));
 app.MapGet("/decrypt", (string user_input) => crypter.Decrypt(user_input));
